@@ -1,1 +1,1 @@
-# Linear-Regression
+# Linear-Regression for advertizing data
